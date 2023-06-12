@@ -1,0 +1,31 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+   
+}
+
+div{
+  
+   background-color: aqua;
+   display: flex;
+  
+}
+ul{
+    
+    font-size: 20px;
+   margin: auto;
+}
+li{
+    display: inline-block;
+   margin: 35px;
+}
+
+#menu_btn:active{
+    color: red;
+}
+#menu_btn:visited{
+    color: red;
+}
